@@ -15,10 +15,10 @@
 
 # ── Who you are ─────────────────────────────────────────────
 
-name = "Juan Pérez"                # ← Required. Everything else is optional.
+name = "Hadeel Eljarrari"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia journalist telling the East Bay's stories"
+tagline = "Journalist"
 
 location = "Berkeley, California"
 
@@ -44,19 +44,18 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "editorial"
 
 # ── How people reach you ────────────────────────────────────
 
-email = "juan.perez@example.com"
+email = "hadeeleljarrari@gmail.com"
 phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
-  "https://www.instagram.com/example",
-  "https://www.linkedin.com/in/example",
-  "https://bsky.app/profile/example.bsky.social",
+  "www.linkedin.com/in/hadeel-eljarrari-84037b2a6"
+
 ]
 
 # ── Photos and files ────────────────────────────────────────
@@ -64,8 +63,8 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/banner.jpg"   # A portrait or banner photo of you
-resume = "media/resume.pdf"         # A PDF of your resume (adds a Resume button)
+banner_photo = "media/hadeelandrea.jpg"   # A portrait or banner photo of you
+resume = ""         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
 # ── About you ───────────────────────────────────────────────
@@ -75,18 +74,11 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 
 bio = """
 I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I grew up in Fresno, where the kitchen radio was
-always tuned to the news. I've been hooked ever since.
+storytelling. I grew up in San Mateo, California and got my Bachelor's degree in Global Studies from UC Santa Barbara. 
 
-My reporting covers housing, transportation and food access in the East
-Bay. I write for Richmond Confidential and spent last summer as a
-reporting intern with the SF Chronicle, where I learned that the best
-stories usually start at a bus stop, a taquería or a city council
-meeting that runs past midnight.
-
-When I'm not reporting, you'll find me photographing high school
-soccer, digging through city budget PDFs, or hunting down the Bay
-Area's best al pastor.
+I interned with Santa Barbara local news sites where I covered politics, healthcare,
+the environment, arts, and culture. I followed my passion for reporting to UC Berkeley's Graduate School of Journalism, where I'll be 
+writing about environmental issues in West Contra Costa County. 
 """
 
 # Optional extra line at the bottom of every page.
@@ -111,40 +103,167 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = "City Council approves protected bike lanes for Telegraph Avenue"
-description = "After a decade of debate and three hours of public comment, Berkeley's City Council voted 7–2 to build protected bike lanes along one of the city's busiest corridors."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/bike-lanes.jpg"
-date = "March 2026"
+title = "Poison Pills and Political Gridlock"
+description = "Passage of Government Spending Bills May Bog Down from Project 2025 Riders."
+url = "https://www.independent.com/2024/12/07/poison-pills-and-political-gridlock/"
+image = "media/work/Carbajal.jpg"
+date = "December 2024"
 category = "Journalism"
-outlet = "Berkeleyside"
+outlet = "The Santa Barbara Independent"
 
 [[work]]
-title = "The wells are running dry: a Central Valley town confronts its future"
-description = "In Teviston, families have watched their taps sputter for years. Now a state grant promises relief — but the water table keeps falling faster than the money arrives."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/drought.jpg"
-date = "January 2026"
+title = "No Butterflies at the Butterfly Grove"
+description = "The Ellwood Mesa Monarch Habitat Is Way Too Quiet."
+url = "https://www.independent.com/2024/12/06/no-butterflies-at-the-butterfly-grove/"
+image = "media/work/Butterflies.jpg"
+date = "December 2024"
 category = "Journalism"
-outlet = "The San Francisco Chronicle"
+outlet = "The Santa Barbara Independent"
 
 [[work]]
-title = "As grocery prices climb, more Cal students turn to the campus food pantry"
-description = "Visits to the UC Berkeley Food Pantry have doubled in two years. Students, staff and volunteers describe the quiet logistics of keeping shelves stocked."
-url = "https://example.com/your-story-link-goes-here"
-image = "media/work/food-bank.jpg"
-date = "November 2025"
+title = "Goleta Attempts to Empower Its People"
+description = "Environmental Justice Open House Inquires About Pollution, Housing, Services, Food, Activities, and Communications."
+url = "https://www.independent.com/2024/10/14/goleta-attempts-to-empower-its-people/"
+image = "media/work/Goleta.jpg"
+date = "October 2024"
 category = "Journalism"
-outlet = "The Daily Californian"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Bitcoin Blackmail: Online Scammers Target Santa Barbara Residents"
+description = "Text Message and Image Threats to Release Information to Contacts."
+url = "https://www.independent.com/2024/10/28/bitcoin-blackmail/"
+image = "media/work/Bitcoin.jpg"
+date = "October 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "UCSB Health Care, Service Workers Hold Another 2-Day Strike Over Contract Talks"
+description = "Striking UC Santa Barbara workers took over Storke Plaza, accusing the University of California of unfair labor practices and bargaining in bad faith."
+url = "https://www.noozhawk.com/ucsb-health-care-service-workers-hold-another-2-day-strike-over-contract-talks/"
+image = "media/work/CampusProtest.jpg"
+date = "February 2025"
+category = "Journalism"
+outlet = "Noozhawk"
+
+[[work]]
+title = "UCSB Students Push for Meal Plan Reform, Prompting New Pilot Program"
+description = "Following a petition signed by 2,200 UC Santa Barbara students, the university’s Campus Dining launched a Meal Plan Pilot Program to test potential policy changes."
+url = "https://www.noozhawk.com/ucsb-students-push-for-meal-plan-reform-prompting-new-pilot-program/"
+image = "media/work/Carillo.jpg"
+date = "March 2025"
+category = "Journalism"
+outlet = "Noozhawk"
+
+[[work]]
+title = "Two Apartments Ablaze in Old Town Goleta"
+description = "Fire at Two Units at Michelle Apartments on Rutherford Street Extinguished Tuesday."
+url = "https://www.independent.com/2024/10/22/two-apartments-ablaze-in-old-town-goleta/"
+image = "media/work/ApartmentFire.jpg"
+date = "October 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Young Santa Barbara Author Empowers Future Voters"
+description = "Garrett Williams Publishes 'One Day, I Will Vote' for Young Readers."
+url = "https://www.independent.com/2024/11/04/young-santa-barbara-author-empowers-future-voters/"
+image = "media/work/GarrettWilliams.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Santa Barbara Women March for Harris"
+description = "Reproductive Rights and Vote Blue Twined at Rally."
+url = "https://www.independent.com/2024/11/04/santa-barbara-women-march-for-harris/"
+image = "media/work/WomensMarch.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Covered California’s 2025 Open Health-Insurance Enrollment Is Open to Most Everyone"
+description = "Record Numbers Have Access to State Health-Insurance Marketplace."
+url = "https://www.independent.com/2024/11/07/covered-californias-2025-open-health-insurance-enrollment-is-open-to-most-everyone/"
+image = "media/work/Healthcare.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Blue Shield Will Drop Sansum Clinic from Medicare Advantage HMO List"
+description = "Patients Can Change Insurance Plans During Medicare Enrollment Period Through December 7."
+url = "https://www.independent.com/2024/11/15/blue-shield-will-drop-sansum-clinic-from-medicare-advantage-hmo-list/"
+image = "media/work/Medicare.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Isla Vista Suspect Fleeing Deputies Jumps Off Bluffs and into Ocean"
+description = "The 19-Year-Old Was Trapped by Tide and Had to Be Rescued by Santa Barbara County Firefighters."
+url = "https://www.independent.com/2024/11/19/isla-vista-suspect-fleeing-police-jumps-off-bluffs-and-into-ocean/"
+image = "media/work/Rescue.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "A Weekend of Lunar New Year Festivities: Remembering Local Chinese American History"
+description = "Santa Barbara will usher in the Year of the Snake with a weekend full of activities, performances, history, and art."
+url = "https://www.noozhawk.com/a-weekend-of-lunar-new-year-festivities-remembering-local-chinese-american-history/"
+image = "media/work/LunarInvitation.jpg"
+date = "January 2025"
+category = "Journalism"
+outlet = "Noozhawk"
+
+[[work]]
+title = "Hundreds Ring in the Lunar New Year in Santa Barbara"
+description = "More than 500 people attended the Lunar New Year Family Festival last weekend, far surpassing organizer's expectations."
+url = "https://www.noozhawk.com/hundreds-ring-in-the-lunar-new-year-in-santa-barbara/"
+image = "media/work/LunarNewYear.jpg"
+date = "February 2025"
+category = "Journalism"
+outlet = "Noozhawk"
+
+[[work]]
+title = "Isla Vista Celebrates Black History Month with Forward Ever, Backward Never"
+description = "More than a celebration of Black History Month, the festivities highlighted resilience, solidarity, and the power of community."
+url = "https://www.noozhawk.com/isla-vista-celebrates-black-history-month-with-forward-ever-backward-never/"
+image = "media/work/ForwardEver.jpg"
+date = "February 2025"
+category = "Journalism"
+outlet = "Noozhawk"
+
+[[work]]
+title = "Blue Shield Will Drop Sansum Clinic from Medicare Advantage HMO List"
+description = "Patients Can Change Insurance Plans During Medicare Enrollment Period Through December 7."
+url = "https://www.independent.com/2024/11/15/blue-shield-will-drop-sansum-clinic-from-medicare-advantage-hmo-list/"
+image = "media/work/Medicare.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Blue Shield Will Drop Sansum Clinic from Medicare Advantage HMO List"
+description = "Patients Can Change Insurance Plans During Medicare Enrollment Period Through December 7."
+url = "https://www.independent.com/2024/11/15/blue-shield-will-drop-sansum-clinic-from-medicare-advantage-hmo-list/"
+image = "media/work/Medicare.jpg"
+date = "November 2024"
+category = "Journalism"
+outlet = "The Santa Barbara Independent"
+
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
-title = "Opinion: Student journalism deserves a seat at the press table"
-description = "Student reporters cover city hall when no one else shows up. It's time public agencies treated them like the working press they are."
-url = "https://example.com/your-story-link-goes-here"
-date = "October 2025"
-category = "Journalism"
-outlet = "Richmond Confidential"
+title = ""
+description = ""
+url = ""
+date = ""
+category = ""
+outlet = ""
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -152,16 +271,12 @@ outlet = "Richmond Confidential"
 # slideshow. Write captions after the | symbol (optional).
 
 [[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
+title = ""
+description = ""
+date = ""
+category = ""
 photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
+  
 ]
 
 # ── An audio story stored on your site ──────────────────────
@@ -170,12 +285,12 @@ photos = [
 # is optional. Clicking the work opens an audio player.
 
 [[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Multimedia"
+title = ""
+description = ""
+audio = ""
+image = ""
+date = ""
+category = ""
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
@@ -183,11 +298,11 @@ category = "Multimedia"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Multimedia"
+title = ""
+description = ""
+video = ""
+date = ""
+category = ""
 
 
 # ============================================================
