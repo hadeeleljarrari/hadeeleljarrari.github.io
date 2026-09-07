@@ -73,7 +73,7 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
+Journalism student at UC Berkeley with a focus on multimedia
 storytelling. I grew up in San Mateo, California and got my Bachelor's degree in Global Studies from UC Santa Barbara. 
 
 I interned with Santa Barbara local news sites where I covered politics, healthcare,
@@ -106,7 +106,7 @@ footer = ""
 title = "Poison Pills and Political Gridlock"
 description = "Passage of Government Spending Bills May Bog Down from Project 2025 Riders."
 url = "https://www.independent.com/2024/12/07/poison-pills-and-political-gridlock/"
-image = "media/work/Carbajal.jpeg"
+image = "media/Carbajal.jpeg"
 date = "December 2024"
 category = "Journalism"
 outlet = "The Santa Barbara Independent"
@@ -115,7 +115,7 @@ outlet = "The Santa Barbara Independent"
 title = "No Butterflies at the Butterfly Grove"
 description = "The Ellwood Mesa Monarch Habitat Is Way Too Quiet."
 url = "https://www.independent.com/2024/12/06/no-butterflies-at-the-butterfly-grove/"
-image = "media/work/Butterflies.jpeg"
+image = "media/Butterflies.jpeg"
 date = "December 2024"
 category = "Journalism"
 outlet = "The Santa Barbara Independent"
@@ -124,7 +124,7 @@ outlet = "The Santa Barbara Independent"
 title = "Goleta Attempts to Empower Its People"
 description = "Environmental Justice Open House Inquires About Pollution, Housing, Services, Food, Activities, and Communications."
 url = "https://www.independent.com/2024/10/14/goleta-attempts-to-empower-its-people/"
-image = "media/work/Goleta.jpeg"
+image = "media/work/Goleta.jpg"
 date = "October 2024"
 category = "Journalism"
 outlet = "The Santa Barbara Independent"
