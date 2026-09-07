@@ -73,7 +73,7 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-Journalism student at UC Berkeley with a focus on multimedia
+I am a journalism student at UC Berkeley with a focus on multimedia
 storytelling. I grew up in San Mateo, California and got my Bachelor's degree in Global Studies from UC Santa Barbara. 
 
 I interned with Santa Barbara local news sites where I covered politics, healthcare,
@@ -108,7 +108,7 @@ description = "Passage of Government Spending Bills May Bog Down from Project 20
 url = "https://www.independent.com/2024/12/07/poison-pills-and-political-gridlock/"
 image = "media/Carbajal.jpeg"
 date = "December 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -117,16 +117,16 @@ description = "The Ellwood Mesa Monarch Habitat Is Way Too Quiet."
 url = "https://www.independent.com/2024/12/06/no-butterflies-at-the-butterfly-grove/"
 image = "media/Butterflies.jpeg"
 date = "December 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
 title = "Goleta Attempts to Empower Its People"
 description = "Environmental Justice Open House Inquires About Pollution, Housing, Services, Food, Activities, and Communications."
 url = "https://www.independent.com/2024/10/14/goleta-attempts-to-empower-its-people/"
-image = "media/Goleta.jpg"
+image = "media/Goleta.jpeg"
 date = "October 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -135,7 +135,7 @@ description = "Text Message and Image Threats to Release Information to Contacts
 url = "https://www.independent.com/2024/10/28/bitcoin-blackmail/"
 image = "media/Bitcoin.jpeg"
 date = "October 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -144,7 +144,7 @@ description = "Striking UC Santa Barbara workers took over Storke Plaza, accusin
 url = "https://www.noozhawk.com/ucsb-health-care-service-workers-hold-another-2-day-strike-over-contract-talks/"
 image = "media/CampusProtest.jpeg"
 date = "February 2025"
-category = "Journalism"
+category = "Articles"
 outlet = "Noozhawk"
 
 [[work]]
@@ -153,7 +153,7 @@ description = "Following a petition signed by 2,200 UC Santa Barbara students, t
 url = "https://www.noozhawk.com/ucsb-students-push-for-meal-plan-reform-prompting-new-pilot-program/"
 image = "media/Carillo.jpeg"
 date = "March 2025"
-category = "Journalism"
+category = "Articles"
 outlet = "Noozhawk"
 
 [[work]]
@@ -162,7 +162,7 @@ description = "Fire at Two Units at Michelle Apartments on Rutherford Street Ext
 url = "https://www.independent.com/2024/10/22/two-apartments-ablaze-in-old-town-goleta/"
 image = "media/ApartmentFire.jpeg"
 date = "October 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -171,7 +171,7 @@ description = "Garrett Williams Publishes 'One Day, I Will Vote' for Young Reade
 url = "https://www.independent.com/2024/11/04/young-santa-barbara-author-empowers-future-voters/"
 image = "media/GarrettWilliams.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -180,7 +180,7 @@ description = "Reproductive Rights and Vote Blue Twined at Rally."
 url = "https://www.independent.com/2024/11/04/santa-barbara-women-march-for-harris/"
 image = "media/WomensMarch.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -189,7 +189,7 @@ description = "Record Numbers Have Access to State Health-Insurance Marketplace.
 url = "https://www.independent.com/2024/11/07/covered-californias-2025-open-health-insurance-enrollment-is-open-to-most-everyone/"
 image = "media/Healthcare.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -198,7 +198,7 @@ description = "Patients Can Change Insurance Plans During Medicare Enrollment Pe
 url = "https://www.independent.com/2024/11/15/blue-shield-will-drop-sansum-clinic-from-medicare-advantage-hmo-list/"
 image = "media/Medicare.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -207,7 +207,7 @@ description = "The 19-Year-Old Was Trapped by Tide and Had to Be Rescued by Sant
 url = "https://www.independent.com/2024/11/19/isla-vista-suspect-fleeing-police-jumps-off-bluffs-and-into-ocean/"
 image = "media/Rescue.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 [[work]]
@@ -216,7 +216,7 @@ description = "Santa Barbara will usher in the Year of the Snake with a weekend 
 url = "https://www.noozhawk.com/a-weekend-of-lunar-new-year-festivities-remembering-local-chinese-american-history/"
 image = "media/LunarInvitation.jpg"
 date = "January 2025"
-category = "Journalism"
+category = "Articles"
 outlet = "Noozhawk"
 
 [[work]]
@@ -225,7 +225,7 @@ description = "More than 500 people attended the Lunar New Year Family Festival 
 url = "https://www.noozhawk.com/hundreds-ring-in-the-lunar-new-year-in-santa-barbara/"
 image = "media/LunarNewYear.jpeg"
 date = "February 2025"
-category = "Journalism"
+category = "Articles"
 outlet = "Noozhawk"
 
 [[work]]
@@ -234,7 +234,7 @@ description = "More than a celebration of Black History Month, the festivities h
 url = "https://www.noozhawk.com/isla-vista-celebrates-black-history-month-with-forward-ever-backward-never/"
 image = "media/ForwardEver.jpeg"
 date = "February 2025"
-category = "Journalism"
+category = "Articles"
 outlet = "Noozhawk"
 
 [[work]]
@@ -243,7 +243,7 @@ description = "Patients Can Change Insurance Plans During Medicare Enrollment Pe
 url = "https://www.independent.com/2024/11/15/blue-shield-will-drop-sansum-clinic-from-medicare-advantage-hmo-list/"
 image = "media/Medicare.jpeg"
 date = "November 2024"
-category = "Journalism"
+category = "Articles"
 outlet = "The Santa Barbara Independent"
 
 
