@@ -245,6 +245,33 @@ date = "November 2024"
 category = "Articles"
 outlet = "The Santa Barbara Independent"
 
+[[work]]
+title = "Help Create Goleta’s First Environmental Justice Policies"
+description = "City Holds Community Open House on Wednesday."
+url = "https://www.independent.com/2024/10/08/help-create-goletas-first-environmental-justice-policies/"
+image = ""
+date = "October 2024"
+category = "Articles"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "Santa Barbara’s Iconic Chaucer’s Books Celebrates 50th Anniversary with Weeks of Festivities"
+description = "Lively Events and Activities Include Creative Workshops, Community Storytimes, Storytelling Contest, and Birthday Bash"
+url = "https://www.independent.com/2024/10/05/santa-barbaras-iconic-chaucers-books-celebrates-50th-anniversary-with-weeks-of-festivities/"
+image = ""
+date = "October 2024"
+category = "Articles"
+outlet = "The Santa Barbara Independent"
+
+[[work]]
+title = "String of Fatal Vehicle Collisions Claim Three Lives in Santa Barbara County"
+description = "Deadly Crashes on 154, in Buellton, and near Lompoc Occur Within Two Days"
+url = "https://www.independent.com/2024/10/01/string-of-fatal-vehicle-collisions-claim-three-lives-in-santa-barbara-county/"
+image = ""
+date = "October 2024"
+category = "Articles"
+outlet = "The Santa Barbara Independent"
+
 
 # This one has no image on purpose — the site still handles it gracefully.
 [[work]]
