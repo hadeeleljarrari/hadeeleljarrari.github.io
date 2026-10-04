@@ -18,7 +18,7 @@
 name = "Hadeel Eljarrari"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Journalist"
+tagline = "Local News Reporter"
 
 location = "Berkeley, California"
 
@@ -63,7 +63,7 @@ socials = [
 # Upload files to the "media" folder on GitHub, then write the
 # file's name here.
 
-banner_photo = "media/hadeelandrea.jpg"   # A portrait or banner photo of you
+banner_photo = "media/hadeelphoto.jpg"   # A portrait or banner photo of you
 resume = ""         # A PDF of your resume (adds a Resume button)
 favicon = ""                        # Tiny browser-tab icon. Empty = made for you
 
